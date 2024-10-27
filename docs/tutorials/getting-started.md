@@ -4,7 +4,7 @@ Welcome to The Modding Tree!
 
 Using the Modding Tree, at its simplest level, just requires getting a copy of it onto your computer. However, if you do it the right way, it will help in many ways.
 
-Don't let the word "Github" scare you away. It's actually much easier to use than most people think, especially because most people use it the hard way. The key is Github Desktop, which lets you do everything you need to, without even touching the command line. 
+Don't let the word "Github" scare you away. It's actually much easier to use than most people think, especially because most people use it the hard way. The key is Github Desktop, which lets you do everything you need to, without even touching the command line.
 
 The benefits of using Github:
 
@@ -23,7 +23,7 @@ The benefits of using Github:
 
 4. Open Github Desktop and log in. Ignore everything else and choose "clone a repository". A "repository" is basically a "Github project", like The Modding Tree. "Cloning" is downloading a copy of the repository to your computer.
 
-5. Look for The Modding Tree in the list of repositiories (it should be the only one) and click "clone". 
+5. Look for The Modding Tree in the list of repositiories (it should be the only one) and click "clone".
 
 6. Select that you're using it for your own purposes, and click continue. It will download the files and handle everything.
 
@@ -45,4 +45,4 @@ The benefits of using Github:
 
 8. You can view your project online, or share it with others, by going to https://raw.githack.com/[YOUR-GITHUB-USERNAME]/The-Modding-Tree/master/index.html. **You do NOT need to do this to test your mod locally.**
 
-And now, you have successfully used Github! You can look at the next tutorial on [making a mod](making-a-mod.md), or look at the [documentation](/documentation/!general-info.md) to see how The Modding Tree's system works and to make your mod a reality.
+And now, you have successfully used Github! You can look at the next tutorial on [making a mod](making-a-mod.md), or look at the [documentation](../!general-info.md) to see how The Modding Tree's system works and to make your mod a reality.
